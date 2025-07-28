@@ -1,6 +1,6 @@
 # RMP Data Analysis
 
-> 🎓 A data-driven deep dive into RateMyProfessors.com: uncovering bias, trends, and teaching quality through statistical and machine learning methods.
+> 🎓 A data-driven deep dive into online professor ratings: uncovering bias, trends, and teaching quality through statistical and machine learning methods.
 
 ---
 
