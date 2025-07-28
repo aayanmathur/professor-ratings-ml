@@ -1,4 +1,4 @@
-# Rate my professor Data Analysis
+# Rate my professor data analysis
 
 > 🎓 A data-driven deep dive into online professor ratings: uncovering bias, trends, and teaching quality through statistical and machine learning methods.
 
