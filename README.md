@@ -1,10 +1,10 @@
 # Rate my professor data analysis
 
-> 🎓 A data-driven deep dive into online professor ratings: uncovering bias, trends, and teaching quality through statistical and machine learning methods.
+>  A data-driven deep dive into online professor ratings: uncovering bias, trends, and teaching quality through statistical and machine learning methods.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project explores over 5,000 professor ratings from RateMyProfessors.com to answer 10 research questions across themes such as:
 
@@ -17,7 +17,7 @@ This project explores over 5,000 professor ratings from RateMyProfessors.com to 
 
 ---
 
-## 🧰 Tools and Skills Used
+##  Tools and Skills Used
 
 - **Python** (pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels)
 - **Statistical Testing** (Mann-Whitney U, Spearman correlation, chi-squared)
@@ -27,7 +27,7 @@ This project explores over 5,000 professor ratings from RateMyProfessors.com to 
 
 ---
 
-## 🗃️ Project Structure
+##  Project Structure
 
 RMP-data-analysis/
 ├── data/ # Raw CSV files (rmpCapstoneNum.csv, rmpCapstoneQual.csv)
@@ -38,7 +38,7 @@ RMP-data-analysis/
 ├── .gitignore # Files to exclude from Git
 └── README.md # Project documentation (this file)
 
-## 📄 PDF Report
+##  PDF Report
 
 A full PDF report with all findings, visualizations, and explanations is included:  
 [`FinalReport.pdf`](FinalReport.pdf)
